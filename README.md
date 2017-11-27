@@ -2,6 +2,7 @@
 
 "A Distant Path" is a 3D multiplayer game which was created as a part of Ubisoft's Game Lab compitition. A team of 7 students made this game in 10 weeks using Unity.
 
+# Gameplay Video (Click on the image)
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=7KksyBKxtsg
 " target="_blank"><img src="http://img.youtube.com/vi/7KksyBKxtsg/0.jpg" 
 width="720" height="540" border="10" /></a>
